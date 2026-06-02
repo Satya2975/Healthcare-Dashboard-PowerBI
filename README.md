@@ -114,9 +114,8 @@ DIVIDE(
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot here:
+<img width="1309" height="736" alt="Healthcare Dashboard" src="https://github.com/user-attachments/assets/0c16d76f-e7c2-4828-9bc8-ca27e5aa9983" />
 
-![Healthcare Dashboard](Screenshots/dashboard.png)
 
 ## 💼 Business Impact
 
